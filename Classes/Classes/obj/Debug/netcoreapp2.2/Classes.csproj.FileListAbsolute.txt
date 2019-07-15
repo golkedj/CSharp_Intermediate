@@ -1,0 +1,11 @@
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Classes\Classes\bin\Debug\netcoreapp2.2\Classes.deps.json
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Classes\Classes\bin\Debug\netcoreapp2.2\Classes.runtimeconfig.json
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Classes\Classes\bin\Debug\netcoreapp2.2\Classes.runtimeconfig.dev.json
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Classes\Classes\bin\Debug\netcoreapp2.2\Classes.dll
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Classes\Classes\bin\Debug\netcoreapp2.2\Classes.pdb
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Classes\Classes\obj\Debug\netcoreapp2.2\Classes.csprojAssemblyReference.cache
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Classes\Classes\obj\Debug\netcoreapp2.2\Classes.csproj.CoreCompileInputs.cache
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Classes\Classes\obj\Debug\netcoreapp2.2\Classes.AssemblyInfoInputs.cache
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Classes\Classes\obj\Debug\netcoreapp2.2\Classes.AssemblyInfo.cs
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Classes\Classes\obj\Debug\netcoreapp2.2\Classes.dll
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Classes\Classes\obj\Debug\netcoreapp2.2\Classes.pdb
