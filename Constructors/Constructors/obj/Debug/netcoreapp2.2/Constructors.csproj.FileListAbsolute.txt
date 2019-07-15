@@ -1,0 +1,11 @@
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Constructors\Constructors\bin\Debug\netcoreapp2.2\Constructors.deps.json
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Constructors\Constructors\bin\Debug\netcoreapp2.2\Constructors.runtimeconfig.json
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Constructors\Constructors\bin\Debug\netcoreapp2.2\Constructors.runtimeconfig.dev.json
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Constructors\Constructors\bin\Debug\netcoreapp2.2\Constructors.dll
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Constructors\Constructors\bin\Debug\netcoreapp2.2\Constructors.pdb
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Constructors\Constructors\obj\Debug\netcoreapp2.2\Constructors.csprojAssemblyReference.cache
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Constructors\Constructors\obj\Debug\netcoreapp2.2\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Constructors\Constructors\obj\Debug\netcoreapp2.2\Constructors.AssemblyInfoInputs.cache
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Constructors\Constructors\obj\Debug\netcoreapp2.2\Constructors.AssemblyInfo.cs
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Constructors\Constructors\obj\Debug\netcoreapp2.2\Constructors.dll
+C:\Users\dgol8064\Documents\code\personal\CSharp_Intermediate\Constructors\Constructors\obj\Debug\netcoreapp2.2\Constructors.pdb
